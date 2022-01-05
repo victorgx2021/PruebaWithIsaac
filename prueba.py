@@ -1,1 +1,9 @@
-print("Hello world");
+nombre 
+dni 
+apelliudo
+
+fecha
+contrsena
+sadw
+
+agregando login
